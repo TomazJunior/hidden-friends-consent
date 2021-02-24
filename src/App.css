@@ -1,38 +1,86 @@
+#root {
+    height: 100%;
+}
+
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+    height: 40vmin;
+    pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.info .card-info {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.sidebar-button {
+    cursor: pointer;
+}
+
+.sidebar-header .label {
+    margin: 0 !important;
+}
+
+.sidebar-item {
+    display: flex !important;
+    justify-content: space-between;
+    flex-direction: initial !important;
+}
+
+.no-cards-message {
+    margin: 2rem !important;
+}
+
+.sidebar-item > div {
+    cursor: pointer;
+}
+.sidebar-wrapper {
+    margin-top: 0px !important;
+}
+
+.sidebar-content {
+    padding: 0px !important;
+    border: none !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    padding-bottom: 5px !important;
+    margin-top: 6px !important;
+}
+
+.sidebar-content .header-right {
+    margin: 0 !important;
+    margin-top: -10px !important;
 }
