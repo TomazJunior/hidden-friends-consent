@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/hidden-friends-web/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/hidden-friends-web/static/js/main.c088eb32.chunk.js",
-    "main.js.map": "/hidden-friends-web/static/js/main.c088eb32.chunk.js.map",
-    "runtime-main.js": "/hidden-friends-web/static/js/runtime-main.94512c25.js",
-    "runtime-main.js.map": "/hidden-friends-web/static/js/runtime-main.94512c25.js.map",
-    "static/js/2.d9423aa4.chunk.js": "/hidden-friends-web/static/js/2.d9423aa4.chunk.js",
-    "static/js/2.d9423aa4.chunk.js.map": "/hidden-friends-web/static/js/2.d9423aa4.chunk.js.map",
-    "static/js/3.8b95f311.chunk.js": "/hidden-friends-web/static/js/3.8b95f311.chunk.js",
-    "static/js/3.8b95f311.chunk.js.map": "/hidden-friends-web/static/js/3.8b95f311.chunk.js.map",
+    "main.css": "/hidden-friends-web/static/css/main.865fc31e.chunk.css",
+    "main.js": "/hidden-friends-web/static/js/main.b70bd6c0.chunk.js",
+    "main.js.map": "/hidden-friends-web/static/js/main.b70bd6c0.chunk.js.map",
+    "runtime-main.js": "/hidden-friends-web/static/js/runtime-main.70a51ef1.js",
+    "runtime-main.js.map": "/hidden-friends-web/static/js/runtime-main.70a51ef1.js.map",
+    "static/css/2.3fe37783.chunk.css": "/hidden-friends-web/static/css/2.3fe37783.chunk.css",
+    "static/js/2.208916d7.chunk.js": "/hidden-friends-web/static/js/2.208916d7.chunk.js",
+    "static/js/2.208916d7.chunk.js.map": "/hidden-friends-web/static/js/2.208916d7.chunk.js.map",
+    "static/js/3.44a962c2.chunk.js": "/hidden-friends-web/static/js/3.44a962c2.chunk.js",
+    "static/js/3.44a962c2.chunk.js.map": "/hidden-friends-web/static/js/3.44a962c2.chunk.js.map",
     "index.html": "/hidden-friends-web/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/hidden-friends-web/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d9423aa4.chunk.js.LICENSE.txt": "/hidden-friends-web/static/js/2.d9423aa4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hidden-friends-web/static/media/logo.6ce24c58.svg"
+    "static/css/2.3fe37783.chunk.css.map": "/hidden-friends-web/static/css/2.3fe37783.chunk.css.map",
+    "static/css/main.865fc31e.chunk.css.map": "/hidden-friends-web/static/css/main.865fc31e.chunk.css.map",
+    "static/js/2.208916d7.chunk.js.LICENSE.txt": "/hidden-friends-web/static/js/2.208916d7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/hidden-friends-web/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/i-am-joe.1787bbd6.jpg": "/hidden-friends-web/static/media/i-am-joe.1787bbd6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.94512c25.js",
-    "static/js/2.d9423aa4.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c088eb32.chunk.js"
+    "static/js/runtime-main.70a51ef1.js",
+    "static/css/2.3fe37783.chunk.css",
+    "static/js/2.208916d7.chunk.js",
+    "static/css/main.865fc31e.chunk.css",
+    "static/js/main.b70bd6c0.chunk.js"
   ]
 }
