@@ -1,8 +1,9 @@
-import { BrowserRouter as Router } from 'react-router-dom'
+// import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom'
 import { Routers } from './routers'
 
 export const App = () => (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
         <Routers></Routers>
     </Router>
 )
