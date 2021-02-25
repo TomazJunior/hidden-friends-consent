@@ -46,41 +46,6 @@
     box-shadow: none !important;
 }
 
-.sidebar-button {
-    cursor: pointer;
-}
-
-.sidebar-header .label {
-    margin: 0 !important;
-}
-
-.sidebar-item {
-    display: flex !important;
-    justify-content: space-between;
-    flex-direction: initial !important;
-}
-
-.no-cards-message {
-    margin: 2rem !important;
-}
-
-.sidebar-item > div {
-    cursor: pointer;
-}
-.sidebar-wrapper {
-    margin-top: 0px !important;
-}
-
-.sidebar-content {
-    padding: 0px !important;
-    border: none !important;
-    border-radius: 0px !important;
-    box-shadow: none !important;
-    padding-bottom: 5px !important;
-    margin-top: 6px !important;
-}
-
-.sidebar-content .header-right {
-    margin: 0 !important;
-    margin-top: -10px !important;
+.privacy-policy {
+    padding: 10px;
 }
