@@ -14,6 +14,7 @@ import logo192 from '../img/logo192.png'
 import mainScreenshoot from '../img/i-am-joe.jpg'
 import googlePlayBadge from '../img/en_badge_web_generic.png'
 import geniusMinigame from '../img/genius-minigame.jpg'
+import whackAnAnimalMinigame from '../img/whack-animal-minigame.jpg'
 import player01 from '../img/player-1.gif'
 import player02 from '../img/player-2.gif'
 
@@ -71,14 +72,19 @@ export const HiddenFriendsPage = () => {
                     </Grid.Column>
                 </Grid.Row>
                 <Grid.Row>
-                    <Grid.Column width={16}>
+                    <Grid.Column width={8}>
                         <Header as="h2" icon textAlign="center">
                             <Header.Content>Genius</Header.Content>
                         </Header>
                     </Grid.Column>
+                    <Grid.Column width={8}>
+                        <Header as="h2" icon textAlign="center">
+                            <Header.Content>Whack an animal</Header.Content>
+                        </Header>
+                    </Grid.Column>
                 </Grid.Row>
                 <Grid.Row>
-                    <Grid.Column textAlign="center" width={16}>
+                    <Grid.Column textAlign="center" width={8}>
                         <Image size="large" centered src={geniusMinigame} />
                         <Segment
                             className="card-info"
@@ -89,6 +95,26 @@ export const HiddenFriendsPage = () => {
                                 It creates a series of tones and random Hidden
                                 Friends and requires a player to repeat the
                                 sequence
+                            </p>
+                        </Segment>
+                    </Grid.Column>
+                    <Grid.Column textAlign="center" width={8}>
+                        <Image
+                            size="large"
+                            centered
+                            src={whackAnAnimalMinigame}
+                        />
+                        <Segment
+                            className="card-info"
+                            size="big"
+                            textAlign="center"
+                        >
+                            <p>
+                                Show and improve your "instant reaction"
+                                whacking in the head of animals. Pay attention
+                                because some of them you can touch (the red
+                                ones), other have helmet and other are very
+                                fast.
                             </p>
                         </Segment>
                     </Grid.Column>
@@ -162,7 +188,10 @@ export const HiddenFriendsPage = () => {
                 </Container>
                 <Container textAlign="right">
                     <Header inverted as="h4">
-                        <Label as={Link} href to='/privacy-policy/'> About Your Privacy</Label>
+                        <Label as={Link} href to="/privacy-policy/">
+                            {' '}
+                            About Your Privacy
+                        </Label>
                     </Header>
                 </Container>
             </Segment>
