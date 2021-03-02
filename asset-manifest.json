@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hidden-friends-web/static/css/main.12727761.chunk.css",
-    "main.js": "/hidden-friends-web/static/js/main.f01abbe6.chunk.js",
-    "main.js.map": "/hidden-friends-web/static/js/main.f01abbe6.chunk.js.map",
+    "main.js": "/hidden-friends-web/static/js/main.f827f80f.chunk.js",
+    "main.js.map": "/hidden-friends-web/static/js/main.f827f80f.chunk.js.map",
     "runtime-main.js": "/hidden-friends-web/static/js/runtime-main.70a51ef1.js",
     "runtime-main.js.map": "/hidden-friends-web/static/js/runtime-main.70a51ef1.js.map",
     "static/css/2.3fe37783.chunk.css": "/hidden-friends-web/static/css/2.3fe37783.chunk.css",
@@ -16,14 +16,15 @@
     "static/js/2.6aeadbd3.chunk.js.LICENSE.txt": "/hidden-friends-web/static/js/2.6aeadbd3.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/hidden-friends-web/static/media/outline-icons.ddae9b1b.woff",
     "static/media/en_badge_web_generic.f902960a.png": "/hidden-friends-web/static/media/en_badge_web_generic.f902960a.png",
-    "static/media/genius-minigame.a859a336.jpg": "/hidden-friends-web/static/media/genius-minigame.a859a336.jpg",
-    "static/media/i-am-joe.1787bbd6.jpg": "/hidden-friends-web/static/media/i-am-joe.1787bbd6.jpg"
+    "static/media/genius-minigame.69b5a8b3.jpg": "/hidden-friends-web/static/media/genius-minigame.69b5a8b3.jpg",
+    "static/media/i-am-joe.ac008f83.jpg": "/hidden-friends-web/static/media/i-am-joe.ac008f83.jpg",
+    "static/media/whack-animal-minigame.41d57c2d.jpg": "/hidden-friends-web/static/media/whack-animal-minigame.41d57c2d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.70a51ef1.js",
     "static/css/2.3fe37783.chunk.css",
     "static/js/2.6aeadbd3.chunk.js",
     "static/css/main.12727761.chunk.css",
-    "static/js/main.f01abbe6.chunk.js"
+    "static/js/main.f827f80f.chunk.js"
   ]
 }
