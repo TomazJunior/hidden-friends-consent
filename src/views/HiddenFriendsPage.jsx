@@ -5,8 +5,10 @@ import {
     Header,
     Icon,
     Image,
+    Label,
     Segment,
 } from 'semantic-ui-react'
+import { Link } from 'react-router-dom'
 
 import logo192 from '../img/logo192.png'
 import mainScreenshoot from '../img/i-am-joe.jpg'
@@ -146,7 +148,7 @@ export const HiddenFriendsPage = () => {
                 vertical
                 style={{ margin: '5em 0em 0em', padding: '2em 0em' }}
             >
-                <Container>
+                <Container textAlign="left">
                     <Header inverted as="h4">
                         Hidden Friends
                     </Header>
@@ -157,6 +159,11 @@ export const HiddenFriendsPage = () => {
                         size="medium"
                         target="_blank"
                     />
+                </Container>
+                <Container textAlign="right">
+                    <Header inverted as="h4">
+                        <Label as={Link} href to='/privacy-policy/'> About Your Privacy</Label>
+                    </Header>
                 </Container>
             </Segment>
         </div>
